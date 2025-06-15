@@ -1,12 +1,19 @@
-#💖 About Me  **Name:** [Brittany B]   
-**💖Hometown:** [Atlanta, Georgia]    
-**💖Prior IT Experience:** [While my prior work experience is in healthcare, I have used most aspects of IT throughout the majority of my work history. 
-My interests for working in IT came from the realization that technology is at the core of almost everything we do today. Watching how data breaches and 
-cyberattacks made headlines, affecting everything from hospitals to large corporations.The idea of being part of the solution, of safegaurding these 
-digital spaces, excites me.]    
-**💖Career Plans:**  [Long term, I aspire to attain my CISSP certification and lead teams of specialized individuals in threat analysis or security architechture]  
-**💖Proud Project/Task:**   
-[An experience that I am most proud of is having the courage to walk away from a career I thought I would spend the rest of my life doing, to pursue 
-a completely different career. To be stepping out on faith and completing a completely new and challenging field with only a little prior knowledge/experience 
-makes me proud that I am doing something that would scare most people. While I am nervous and a bit fearful, I am most proud of myself for challenging myself to 
-rise above those feelings for the greater goal of becoming a Cybersecurity professional.]  
+# <ins>💖 About Me</ins>  
+
+### **<ins>Name</ins>**  
+Brittany B  
+
+### **<ins>💖 Hometown</ins>**  
+Atlanta, Georgia  
+
+### **<ins>💖 Prior IT Experience</ins>**  
+While my background is in healthcare, I’ve extensively used IT tools and systems throughout my career. My passion for technology grew from recognizing its pivotal role in modern life—especially after seeing how cyberattacks and data breaches impact critical sectors like healthcare and corporations. The idea of protecting digital spaces and being part of the solution excites me!  
+
+### **<ins>💖 Career Plans</ins>**  
+- **Long-term goal**: Use my skills to travel the world while leading teams in threat analysis or security architecture.  
+- **Focus**: Bridging gaps between security and operational efficiency.  
+
+### **<ins>💖 Proudest Achievement</ins>**  
+Walking away from a stable career to pursue cybersecurity—a field I had little prior experience in—was a leap of faith. Despite the nerves, I’m proud to tackle this challenge head-on and work toward becoming a cybersecurity professional. It’s a reminder that growth happens outside comfort zones!  
+
+---
